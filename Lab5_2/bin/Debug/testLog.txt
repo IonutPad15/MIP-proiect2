@@ -1,0 +1,138 @@
+01/06/2022 9:50:01::052 PM    Form loaded
+01/06/2022 9:50:10::269 PM       at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   at System.Data.Entity.DbContext.SaveChanges()
+   at Lab5_2.AddUser.<>c__DisplayClass6_0.<<Add>b__0>d.MoveNext() in D:\programe C#\Lab5_2\AddUser.cs:line 71
+ale added
+.Data.Entity.DbContext.SaveChanges()
+   at Lab5_2.AddUser.<>c__DisplayClass4_0.<<Add>b__0>d.MoveNext() in D:\programe C#\Lab5_2\AddUser.cs:line 55
+01/07/2022 4:32:13::078 PM    Form loaded
+01/07/2022 4:34:59::989 PM    Form loaded
+01/07/2022 4:35:08::036 PM       at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   at System.Data.Entity.DbContext.SaveChanges()
+   at Lab5_2.AddUser.<>c__DisplayClass6_0.<<Add>b__0>d.MoveNext() in D:\programe C#\Lab5_2\AddUser.cs:line 71
+01/07/2022 4:37:05::679 PM    Form loaded
+01/07/2022 4:38:48::862 PM    Form loaded
+01/07/2022 4:39:32::561 PM    Form loaded
+01/07/2022 4:39:52::535 PM    Form loaded
+01/07/2022 4:41:01::780 PM    Form loaded
+01/07/2022 4:41:52::416 PM    Form loaded
+01/07/2022 4:42:39::194 PM    Form loaded
+01/07/2022 4:45:20::442 PM    Form loaded
+01/07/2022 4:45:49::597 PM    Form loaded
+01/07/2022 4:46:23::100 PM    Form loaded
+01/07/2022 4:47:16::607 PM    Form loaded
+01/07/2022 4:47:19::080 PM       at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Lab5_2.AddProdus.<>c__DisplayClass4_0.<<Add>b__0>d.MoveNext() in D:\programe C#\Lab5_2\AddProdus.cs:line 43
+01/07/2022 4:47:49::750 PM    Form loaded
+01/07/2022 4:48:05::498 PM    Produs adaugat
+01/07/2022 4:48:55::851 PM    Form loaded
+01/07/2022 4:49:27::647 PM    Produs adaugat
+01/07/2022 4:49:53::130 PM    Form loaded
+01/07/2022 4:52:37::359 PM    Form loaded
+01/07/2022 4:52:42::679 PM       at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Lab5_2.AddProdus.<>c__DisplayClass6_0.<<Add>b__0>d.MoveNext() in D:\programe C#\Lab5_2\AddProdus.cs:line 48
+01/07/2022 4:53:39::904 PM       at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Lab5_2.AddProdus.<>c__DisplayClass6_0.<<Add>b__0>d.MoveNext() in D:\programe C#\Lab5_2\AddProdus.cs:line 48
+01/07/2022 4:55:02::075 PM    Form loaded
+01/07/2022 4:55:14::116 PM    Produs adaugat
+01/07/2022 4:55:39::366 PM    Form loaded
+01/07/2022 4:55:43::567 PM       at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Lab5_2.AddProdus.<>c__DisplayClass6_0.<<Add>b__0>d.MoveNext() in D:\programe C#\Lab5_2\AddProdus.cs:line 48
+01/07/2022 4:56:17::923 PM       at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Lab5_2.AddProdus.<>c__DisplayClass6_0.<<Add>b__0>d.MoveNext() in D:\programe C#\Lab5_2\AddProdus.cs:line 48
+01/08/2022 10:17:25::490 AM    Form loaded
+01/08/2022 10:17:58::861 AM    Form loaded
+01/08/2022 10:18:02::210 AM       at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Lab5_2.AddProdus.<>c__DisplayClass6_0.<<Add>b__0>d.MoveNext() in D:\programe C#\Lab5_2\AddProdus.cs:line 48
+01/08/2022 10:18:28::190 AM    Form loaded
+01/08/2022 10:19:05::684 AM    Form loaded
+01/08/2022 10:19:38::068 AM    Form loaded
+01/08/2022 10:22:55::643 AM    Form loaded
+01/08/2022 10:23:02::449 AM       at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Lab5_2.AddProdus.<>c__DisplayClass6_0.<<Add>b__0>d.MoveNext() in D:\programe C#\Lab5_2\AddProdus.cs:line 48
+01/08/2022 10:29:26::968 AM    Form loaded
+01/08/2022 10:29:29::317 AM       at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Lab5_2.AddProdus.<>c__DisplayClass6_0.<<Add>b__0>d.MoveNext() in D:\programe C#\Lab5_2\AddProdus.cs:line 48
+01/08/2022 10:29:41::475 AM    Form loaded
+01/08/2022 10:29:44::133 AM       at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Lab5_2.AddProdus.<>c__DisplayClass6_0.<<Add>b__0>d.MoveNext() in D:\programe C#\Lab5_2\AddProdus.cs:line 48
+01/08/2022 11:07:24::845 AM    Form loaded
+01/08/2022 11:18:10::635 AM       at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   at System.Data.Entity.DbContext.SaveChanges()
+   at Lab5_2.AddUser.<>c__DisplayClass6_0.<<Add>b__0>d.MoveNext() in D:\programe C#\Lab5_2\AddUser.cs:line 71
+01/08/2022 11:19:22::174 AM    Sale added
+01/08/2022 11:19:35::009 AM    Sale added
+01/08/2022 11:19:35::016 AM    Produs sters
+01/08/2022 11:19:40::362 AM    Sale added
+01/08/2022 11:19:50::182 AM    Utilizator sters
+01/08/2022 11:20:48::907 AM    Form loaded
+01/08/2022 11:21:56::349 AM    Sale added
+01/08/2022 11:22:06::459 AM    Utilizator sters
+01/08/2022 11:27:03::779 AM    Form loaded
+01/08/2022 11:27:14::785 AM       at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Lab5_2.SaleProdus.<>c__DisplayClass5_0.<<Sale>b__0>d.MoveNext() in D:\programe C#\Lab5_2\SaleProdus.cs:line 51
+01/08/2022 11:27:15::091 AM    Sale added
+01/08/2022 11:28:12::500 AM    Form loaded
+01/08/2022 11:28:27::213 AM       at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Lab5_2.SaleProdus.<>c__DisplayClass5_0.<<Sale>b__0>d.MoveNext() in D:\programe C#\Lab5_2\SaleProdus.cs:line 51
+01/08/2022 11:28:27::519 AM    Sale added
+01/08/2022 11:28:43::769 AM    Form loaded
+01/08/2022 11:29:07::353 AM       at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Lab5_2.SaleProdus.<>c__DisplayClass5_0.<<Sale>b__0>d.MoveNext() in D:\programe C#\Lab5_2\SaleProdus.cs:line 51
+01/08/2022 2:41:55::718 PM    Form loaded
+01/08/2022 2:42:06::830 PM    Sale added
+01/08/2022 2:45:42::186 PM    Form loaded
+01/09/2022 9:43:26::915 AM    Form loaded
+01/09/2022 10:00:52::530 AM    Form loaded
+01/09/2022 10:03:56::362 AM    Form loaded
+01/09/2022 10:04:21::954 AM    Form loaded
+01/09/2022 10:12:39::859 AM    Form loaded
+01/09/2022 10:13:16::449 AM    Form loaded
+01/09/2022 10:14:15::688 AM    Form loaded
+01/09/2022 10:14:33::826 AM       at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   at System.Data.Entity.DbContext.SaveChanges()
+   at Lab5_2.AddUser.<>c__DisplayClass6_0.<<Add>b__0>d.MoveNext() in D:\programe C#\Lab5_2\AddUser.cs:line 71
+01/09/2022 11:29:35::103 AM    Form loaded
+01/09/2022 11:30:26::364 AM    Form loaded
+01/09/2022 11:40:01::950 AM    Form loaded
+01/09/2022 11:43:41::741 AM    Form loaded
+01/09/2022 11:44:33::882 AM    Utilizator sters
+01/09/2022 1:42:41::288 PM    Form loaded
+01/09/2022 1:43:31::596 PM    Form loaded
+01/09/2022 4:46:49::958 PM    Form loaded
+01/09/2022 4:47:46::493 PM    Form loaded
+01/09/2022 4:47:59::226 PM    Form loaded
+01/09/2022 4:49:33::978 PM    Form loaded
+01/09/2022 4:49:50::358 PM    Form loaded
+01/09/2022 4:53:10::124 PM    Form loaded
+01/09/2022 5:21:28::951 PM    Form loaded
+01/09/2022 5:25:25::046 PM    Form loaded
+01/17/2022 5:37:19::359 PM    Form loaded

@@ -1,0 +1,17 @@
+ La deschidere va aparea lista cu produsele(id, denumire, cantitate) 
+ca la laborator. La double-click pe un produs utilizatorul va fi dus
+la meniul de cumparare daca este logat. Daca nu, este avertizat sa se 
+logheze intai. Pentru a retine id-ul utilizatorului logat, am folosit 
+un camp static in clasa UserForm.
+    Daca este apasat butonul "Istoric vanzari" din Meniu, sunt doua cazuri:
+se va afisa istoricul tuturor vanzarilor daca nu este nici un utilizator
+logat, iar in caz contrar, se va afisa doar istoricul cumparaturilor sale.
+butonul de log out seteaza campul static pe 0 si apeleaza load data, iar
+refresh doar apeleaza load data. 
+    In meniul Utilizatori, logarea se face pe baza username si parola. Are 
+optiunea sa stearga utilizatorul, doar daca este deja logat. Iar butonul 
+register ne duce catre o alta forma pentru inregistrare. Username-ul trebuie
+sa fie unic(vei fi avertizat) si toate campurile trebuie completate(nu vei fi
+avertizat).
+(Nu sunt foarte sigur pe partea cu invoke, iar toate task-urile sunt facute
+cu async).
